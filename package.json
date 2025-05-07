@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "cypress": "^14.3.2"
+  },
+  "name": "cypress_project1",
+  "version": "1.0.0",
+  "description": "learnspec files from provided examples ",
+  "main": "index.js",
+  "devDependencies": {
+    "cypress-mochawesome-reporter": "^3.8.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "author": "Muhabbat Abduganiyeva",
+  "license": "ISC"
+}
